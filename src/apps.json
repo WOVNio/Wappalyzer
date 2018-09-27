@@ -10880,6 +10880,14 @@
       "implies": "WordPress",
       "website": "http://z9.io/wp-super-cache/"
     },
+    "WOVN.io": {
+      "cats": [
+        5
+      ],
+      "script": "/wovn.io/",
+      "icon": "wovn.svg",
+      "website": "https://wovn.io"
+    },
     "Wowza Media Server": {
       "cats": [
         38
